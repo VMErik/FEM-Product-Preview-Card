@@ -16,10 +16,7 @@ Users should be able to:
 - Desktop Preview
 ![](./images/desktop-preview.PNG)
 
-- Mobile Preview
-![](./images/mobile-preview.PNG)
-
-
+![Mobile Preview](./images/mobile-preview.PNG)
 
 ### Links
 
