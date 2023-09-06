@@ -13,7 +13,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./images/screenshot.jpg)
+- Desktop Preview
+![](./images/desktop-preview.PNG)
+
+- Mobile Preview
+![](./images/mobile-preview.PNG)
+
 
 
 ### Links
