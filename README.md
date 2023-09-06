@@ -13,9 +13,11 @@ Users should be able to:
 
 ### Screenshot
 
-- Desktop Preview
+- Desktop Preview  
+
 ![](./images/desktop-preview.PNG)
 
+- Mobile Preview  
 ![Mobile Preview](./images/mobile-preview.PNG)
 
 ### Links
