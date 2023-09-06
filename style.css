@@ -96,6 +96,7 @@ p {
     color: var(--dark-grayish-blue);
     font-size: 14px;
     font-family: 'Fraunces', serif;
+    text-decoration: line-through;
 }
 
 .card__content--actions {
